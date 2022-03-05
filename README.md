@@ -2,14 +2,13 @@
 
 This project was written with VueJS to practice the basics.
 
-Screenshots:
-![Task Tracker app](https://github.com/hunterhuni/vue-task-tracker/blob/main/screenshot.jpg?raw=true)
-
-Things covered:
-
+## Things covered
 - Vue basics, events, props, binding, components etc.
 - Vue-router
-- Fetching from a simulated API (json-server)
+- Fetching data from a simulated API (json-server)
+
+### Screenshots:
+![Task Tracker app](https://github.com/hunterhuni/vue-task-tracker/blob/main/screenshot.jpg?raw=true)
 
 ## Project setup
 
